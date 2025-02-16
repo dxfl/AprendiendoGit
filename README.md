@@ -10,8 +10,8 @@ Temas que me gustaría ver
 
 ## Comandos
 
-    ### Terminal
+### Terminal
 
-    ### VS Code
+### VS Code
 
 ## GitHub
