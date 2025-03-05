@@ -8,6 +8,10 @@ Temas que me gustaría ver
 
 [Git.md](./Docs/Git.md)
 
+## GitHub
+
+[Github](https://github.com) Es un sitio web en el que almacenar los repositorios Git
+
 ## Ejemplos
 
 - [Pandas](https://github.com/pandas-dev/pandas) Ejemplo de repositorio open source, librería muy conocida 😊
@@ -26,9 +30,8 @@ Temas que me gustaría ver
 ### VS Code
 
 ### Colab
-Colab también se engancha a Github para ejecutar ahí los cuadernos Jupyter
+[Colab](https://colab.research.google.com/) también se puede enlazar con Github para ejecutar ahí los cuadernos Jupyter
 
-## GitHub
 
 ## Algunos enlaces
 
