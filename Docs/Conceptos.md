@@ -6,3 +6,6 @@ Una **Rama** (*branch*) es una línea de desarrollo independiente. Normalmente t
 
 **Merge** Es el proceso de combinar 2 ramas, por ejemplo, una vez que has terminado una característica nueva puedes fusionar la rama en la que hacías el desarrollo con la rama principal.
 
+
+
+[Volver](../README.md)
