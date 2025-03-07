@@ -21,7 +21,7 @@ Temas que me gustaría ver
 
 ## Conceptos
 
-[Conceptos.md](./Docs/Conceptos.md)
+[Conceptos](./Docs/Conceptos.md)
 
 ## Comandos
 
@@ -35,9 +35,8 @@ Temas que me gustaría ver
 
 ## Algunos enlaces
 
-[Documentación oficial](https://git-scm.com/doc)
-[Libro oficial](https://git-scm.com/book/en/v2)
+[Enlaces interesantes](./Docs/Enlaces.md)
 
-[How to use Git: A reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
-[Documentación GitHub](https://docs.github.com/en/get-started)
+
+
