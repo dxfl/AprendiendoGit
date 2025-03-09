@@ -1,6 +1,6 @@
 # Comandos básicos Git
 
-Aquí tienes una lista de los comandos básicos de Git que necesitas conocer para empezar a utilizarlo de manera efectiva:
+Aquí tienes una lista, que me ha pasado Mistral, de los comandos básicos de Git que necesitas conocer para empezar a utilizarlo de manera efectiva:
 
 ## 1. **Configuración Inicial**
 
