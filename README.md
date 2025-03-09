@@ -2,7 +2,7 @@
 
 Esto es un repositorio para aprender y practicar con Git y GitHub
 
-Temas que me gustaría ver
+Temas que me gustaría ver, con vosotros
 
 ## ¿Qué es Git?
 
