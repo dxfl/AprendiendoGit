@@ -1,16 +1,23 @@
 # AprendiendoGit
 
-Repositorio para aprender y practicar con Git y GitHub
+Esto es un repositorio para aprender y practicar con Git y GitHub
 
 Temas que me gustaría ver
 
 ## ¿Qué es Git?
 
-[Git.md](./Docs/Git.md)
+[Imagen de Git Inicial, mapa mental...](/Imgs/git_mind_map.jpg)
 
-## GitHub
+No, en serio, [¿Qué es Git?](./Docs/Git.md)
 
-[Github](https://github.com) Es un sitio web en el que almacenar los repositorios Git
+## ¿Qué es GitHub?
+
+No confundir Git con [Github](https://github.com), que es un sitio web en el que almacenar los repositorios Git.
+
+Hay otros servicios de almacenamiento de repositorios similares, como [Bitbucket](https://www.atlassian.com/software/bitbucket) o [GitLab](https://about.gitlab.com).
+
+O también puedes usar cualquier servidor...
+
 
 ## Ejemplos
 
@@ -21,23 +28,23 @@ Temas que me gustaría ver
 
 ## Conceptos
 
-- [Conceptos](./Docs/Conceptos.md)
+Algunos [Conceptos](./Docs/Conceptos.md)
 
 ## Comandos
 
-- [Commandos habituales](./Docs/Comandos_habituales.md)
+Unos cuantos [Commandos habituales](./Docs/Comandos_habituales.md)
 
 ### Terminal
 
 ### VS Code
 
 ### Colab
-[Colab](https://colab.research.google.com/) también se puede enlazar con Github para ejecutar ahí los cuadernos Jupyter
+[Google Colab](https://colab.research.google.com/) también se puede enlazar con Github para ejecutar ahí mismo los cuadernos Jupyter almacenados en Github.
 
 
 ## Algunos enlaces
 
-[Enlaces interesantes](./Docs/Enlaces.md)
+Algunos [Enlaces interesantes](./Docs/Enlaces.md)
 
 
 
