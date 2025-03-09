@@ -18,7 +18,6 @@ Hay otros servicios de almacenamiento de repositorios similares, como [Bitbucket
 
 O también puedes usar cualquier servidor...
 
-
 ## Ejemplos
 
 - [Pandas](https://github.com/pandas-dev/pandas) Ejemplo de repositorio open source, librería muy conocida 😊
@@ -34,18 +33,14 @@ Algunos [Conceptos](./Docs/Conceptos.md)
 
 Unos cuantos [Commandos habituales](./Docs/Comandos_habituales.md)
 
-### Terminal
+## Terminal
 
-### VS Code
+## VS Code
 
-### Colab
+## Colab
+
 [Google Colab](https://colab.research.google.com/) también se puede enlazar con Github para ejecutar ahí mismo los cuadernos Jupyter almacenados en Github.
-
 
 ## Algunos enlaces
 
 Algunos [Enlaces interesantes](./Docs/Enlaces.md)
-
-
-
-

@@ -20,5 +20,4 @@ En un entorno de desarrollo suele estructurarse.
 
 [Ejemplo de ramas más complejo](../Imgs/git_branch_02.jpg)
 
-
 [Volver](../README.md)
