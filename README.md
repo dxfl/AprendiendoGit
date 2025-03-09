@@ -21,9 +21,11 @@ Temas que me gustaría ver
 
 ## Conceptos
 
-[Conceptos](./Docs/Conceptos.md)
+- [Conceptos](./Docs/Conceptos.md)
 
 ## Comandos
+
+- [Commandos habituales](./Docs/Comandos_habituales.md)
 
 ### Terminal
 

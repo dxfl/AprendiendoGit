@@ -1,6 +1,3 @@
-#learning 
-#ninja 
-
 # Comandos básicos Git
 
 Aquí tienes una lista de los comandos básicos de Git que necesitas conocer para empezar a utilizarlo de manera efectiva:

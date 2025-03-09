@@ -1,6 +1,6 @@
 # Algunos Conceptos
 
-Un **Repositorio** es un directorio que contiene todos los archivos de un proyecto y el historial de cambios. Lo podemos tener en local o en un servidor remoto.
+Un **Repositorio** es un directorio que contiene todos los archivos de un proyecto y el historial de cambios. Lo podemos tener en local o en un servidor remoto. Cuando **Clonas** un repositorio, te estás descargando la imagen del repositorio en ese momento y también toda la historia de cambios desde el inicio del repositorio.
 
 Un **Commit** es una foto del estado del repositorio, de los cambios que se han hecho respecto de la foto (commit) anterior.
 

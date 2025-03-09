@@ -11,6 +11,8 @@ Incluye un libro descargable: [Libro oficial](https://git-scm.com/book/en/v2)
 - [Comandos más frecuentes](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/)
 
 ## Otros tutoriales
+
+- [Introduction to Git and GitHub for Python Developers](https://realpython.com/python-git-github-intro/)
 - [How to use Git: A reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
 ## Vídeos
